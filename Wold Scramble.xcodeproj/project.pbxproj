@@ -13,6 +13,7 @@
 		4D7193A52464870C00A0A63B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D7193A32464870C00A0A63B /* Main.storyboard */; };
 		4D7193A72464870F00A0A63B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D7193A62464870F00A0A63B /* Assets.xcassets */; };
 		4D7193AA2464870F00A0A63B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D7193A82464870F00A0A63B /* LaunchScreen.storyboard */; };
+		4D7193B224648A0D00A0A63B /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4D7193B124648A0D00A0A63B /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4D7193A62464870F00A0A63B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D7193A92464870F00A0A63B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4D7193AB2464870F00A0A63B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D7193B124648A0D00A0A63B /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		4D71939C2464870C00A0A63B /* Wold Scramble */ = {
 			isa = PBXGroup;
 			children = (
+				4D7193B124648A0D00A0A63B /* start.txt */,
 				4D71939D2464870C00A0A63B /* AppDelegate.swift */,
 				4D71939F2464870C00A0A63B /* SceneDelegate.swift */,
 				4D7193A12464870C00A0A63B /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D7193AA2464870F00A0A63B /* LaunchScreen.storyboard in Resources */,
+				4D7193B224648A0D00A0A63B /* start.txt in Resources */,
 				4D7193A72464870F00A0A63B /* Assets.xcassets in Resources */,
 				4D7193A52464870C00A0A63B /* Main.storyboard in Resources */,
 			);
